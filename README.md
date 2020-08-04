@@ -11,7 +11,7 @@ pip install numpy
 pip install opencv
 pip install imutils
 
-#How to run the code??
+# How to run the code??
 To run detect_faces.py : Add a image in the same directory as in the code.(here i am using moneyheist.png)
 the image can be either .png or .jpg format
 python detect_faces.py --image moneyheist.png --prototxt deploy.prototxt.txt --model res10_300x300_ssd_iter_140000.caffemodel
