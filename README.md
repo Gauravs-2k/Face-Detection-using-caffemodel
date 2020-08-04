@@ -2,14 +2,14 @@
 In this repo we are using the caffemodel provided by opencv for face-detection purpose
 
 # How to use
-There are two python files in this.
-a. detect_faces.py is used to detect faces for the given input image
-b.detect_faces_video.py is used to detect faces realtime using computer camer or raspbeerry pi camera 
+There are two python files in this.\n
+a. detect_faces.py is used to detect faces for the given input image\n
+b.detect_faces_video.py is used to detect faces realtime using computer camer or raspbeerry pi camera \n
 
 # Requirements
-pip install numpy 
-pip install opencv
-pip install imutils
+pip install numpy \n
+pip install opencv\n
+pip install imutils\n
 
 # How to run the code??
 To run detect_faces.py : Add a image in the same directory as in the code.(here i am using moneyheist.png)
